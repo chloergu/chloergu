@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chloergu
 - 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning C++
-- 💞️ I’d be happy to collaborate on anything in simple C++
+- 🌱 I’m currently learning C++, C, and Python
+- 💞️ I’d be happy to collaborate on anything in C++ and C
 - 📫 How to reach me: chloergu@gmail.com
 
 <!---
