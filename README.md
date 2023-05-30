@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloergu
 - 👀 I’m interested in Computer Science and Physics.
-- 🌱 I’m currently learning C++, C, HTML, CSS, and Python
+- 🌱 I’m currently learning C++, C, HTML, CSS, Javascript, and Python
 - 💞️ I’d be happy to collaborate on anything in C++ and C
 - 📫 How to reach me: chloergu@gmail.com
 
